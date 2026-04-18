@@ -1,26 +1,30 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/VnWYxZXQ)
 # Trabalho Prático - Semana 6
 
-Nessa atividade, como sempre, vamos evoluir o que foi feito na semana anterior. Fique atento para fazer o projeto da semana anterior e dar sequência nessa jornada.
+# LootVault - Home Page Responsiva com Bootstrap
 
-No trabalho dessa semana vamos alterar o projeto para que a responsividade da home-page seja feita, agora, com o framework Bootstrap.
+## 📌 Descrição
+Este projeto consiste na refatoração de uma home-page responsiva utilizando o framework Bootstrap, substituindo o uso de CSS puro (flexbox, grid e media queries).
 
-**IMPORTANTE 1:** Você deve alterar apenas os arquivos **`README.md`**, **`index.html`** e **`styles.css`**, podendo incluir outros arquivos como imagens na pasta **`images`**, caso necessário. Deixe todos os demais arquivos e pastas desse repositório inalterados. **PRESTE MUITA ATENÇÃO NISSO.**
+## 🚀 Tecnologias utilizadas
+- HTML5
+- CSS3
+- Bootstrap
+- Git e GitHub
 
-## Informações Gerais
+## 📱 Responsividade
+O site foi desenvolvido para se adaptar a diferentes dispositivos:
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- 💻 Desktop: layout com múltiplas colunas
+- 📱 Mobile: layout em coluna única
 
-## Print da versão responsiva com Bootstrap [DESKTOP]
+## 📸 Prints do Projeto
 
-<<  COLOQUE A IMAGEM AQUI >>
+### 💻 Versão Desktop
+![Desktop](public/img/desktop.png)
 
-## Print da versão responsiva com Bootstrap [MOBILE] (*)
+### 📱 Versão Mobile
+![Mobile](public/img/mobile.png)
 
-<<  COLOQUE A IMAGEM AQUI >>
-
-
-(*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
+## 👨‍💻 Autor
+Mateus Evaristo Melo 
