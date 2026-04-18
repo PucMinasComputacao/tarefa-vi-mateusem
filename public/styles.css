@@ -1,0 +1,45 @@
+/*Fonte geral*/
+body {
+    font-family: Arial, sans-serif;
+}
+
+/*Logo*/
+h1 {
+    font-weight: bold;
+}
+
+/*Links do meu*/
+nav a {
+    text-decoration: nome;
+    transform: 0.3s;
+}
+
+nav a:hover {
+    color: #0dcaf0; /* azul do bootstrap */
+}
+
+/*Cards*/
+.card {
+    border: none;
+    transition: transform 0.3; box-shadow: 0.3;
+}
+
+/*Efeito hover*/
+.card:houver {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+/*Botões*/
+.btn {
+    transition: 0.3s;
+}
+
+.btn:houver {
+    opacity: 0.8;
+}
+
+/*Footer*/
+footer {
+    font-size: 14px;
+}
